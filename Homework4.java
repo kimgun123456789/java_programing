@@ -26,7 +26,7 @@ public class Homework4 {
         else{
             a=gcd.makeGCD(n,m);
         }
-        System.out.printf("%d",a);
+        System.out.printf("두 수의 최대공약수는 %d입니다.",a);
 
     }
 }
